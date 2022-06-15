@@ -14,8 +14,9 @@ This repo is to create popular models from scratch. The purpose is to get myself
 10) RNN
 11) LSTM
 12) Transformers
-13) YOLO
-14) Faster RCNN
-15) StyleGAN
-16) Graph Conv Network
-17) 
+13) Efficient Transformers
+14) YOLO
+15) Faster RCNN
+16) StyleGAN
+17) Graph Conv Network
+18) 
